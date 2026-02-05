@@ -7,7 +7,7 @@ Status: Demo-ready
 ---
 
 ## Demo
-Live demo: [Add your demo URL here]
+Live demo: [https://demo-brand-ridex.vercel.app/]
 
 If you don't have a live demo yet, you can run it locally (instructions below).
 
@@ -23,26 +23,19 @@ If you don't have a live demo yet, you can run it locally (instructions below).
 
 ---
 
-## Screenshots
-Replace these placeholders with your actual images in the repo (e.g. /assets/screenshots/).
-- Hero / Landing: assets/screenshots/hero.png
-- Gallery / Listing: assets/screenshots/gallery.png
-- Car detail page: assets/screenshots/detail.png
-
----
 
 ## Tech & Tools (Suggested)
 This README is intentionally technology-agnostic — pick the stack you prefer. Common choices:
-- Frontend: React, Vue, or plain HTML/CSS/JS
-- Styling: Tailwind CSS, Bootstrap, or custom SCSS
-- Data: local JSON, Firebase, or a REST/GraphQL API
-- Build tools: Vite, Next.js, Create React App, or parcel
+- Frontend: Plain HTML/CSS/JS
+- Styling: CSS, Bootstrap
+- Data: local JSON, Firebase
+- Build tools: Project IDX
 
 ---
 
 ## Getting Started (Example for a Node-based project)
 1. Clone the repo
-   git clone https://github.com/<your-username>/<repo>.git
+   git clone https://github.com/<yuva-1237>/<Demo-Brand>.git
 2. Install dependencies
    npm install
    or
@@ -62,7 +55,6 @@ If your project is static HTML, just open index.html in a browser or serve with 
 - /public or /static — images, favicon, static assets
 - /src — app source code (components, pages, styles)
 - /data — sample car data (JSON)
-- /assets/screenshots — demo screenshots for README
 
 ---
 
@@ -114,11 +106,11 @@ If your project is static HTML, just open index.html in a browser or serve with 
 ---
 
 ## License
-Add your license here (e.g. MIT). Example:
-MIT © <Your Name>
+Add your license here. Example:
+yuva © <Yuvathilagan>
 
 ---
 
 ## Contact
-Built by <Your Name> — replace with your name and contact info.
-Project: Ridex (Car Showcase) — Demo for presentation and portfolio use.
+Built by <Yuvathilagan>
+Project: Ridex (Car Showcase)
